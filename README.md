@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Mahin👋
 
+- One of the recent projects I made scrapes data off Facebook Marketplace and uses the OpenAI API to generate friendly, professional messages for students — especially helpful for those who aren’t super confident in English.
+    - I’m currently working on turning it into a Chrome extension!
+- Right now, I’m learning C++ and developing a campus navigation tool that uses Dijkstra's algorithm to find the best path based on speed, crowd levels, and even whether you'd prefer to walk indoors or outside (depending on the weather — classic Newfoundland 😅).
+- I'm also building **IntuitiveCS** with friends, a web platform to help students understand CS concepts visually and interactively. We're expanding beyond CS soon into other tricky subjects!
+- You can check out my personal portfolio [here]([https://mahin-sindhwani.github.io](https://github.com/MahinSindhwani/PersonalPortfolio)). I'm always polishing it up and adding new stuff.
+
+### 📬 Get in Touch
+
+- 📧 Email: msindhwani@mun.ca  
+- 💼 LinkedIn: [linkedin.com/in/mahin-sindhwani](https://www.linkedin.com/in/mahin-sindhwani)
 <!--
 **MahinSindhwani/MahinSindhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
