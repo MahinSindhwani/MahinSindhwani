@@ -15,7 +15,7 @@ I’m a third-year Computer Science student at Memorial University of Newfoundla
 
 - One of the recent projects I made scrapes data off Facebook Marketplace and uses the OpenAI API to generate friendly, professional messages for students — especially helpful for those who aren’t super confident in English.
     - I’m currently working on turning it into a Chrome extension!
-- Right now, I’m learning C++ and developing a campus navigation tool that uses Dijkstra's algorithm to find the best path based on speed, crowd levels, and even whether you'd prefer to walk indoors or outside (depending on the weather — classic Newfoundland 😅).
+- Right now, I’m learning C++ and developing a campus navigation tool that uses Dijkstra's algorithm to find the best path based on speed, crowd levels, and even whether you'd prefer to walk indoors or outside (depending on the weather, classic Newfoundland 😅).
 - I'm also building **IntuitiveCS** with friends, a web platform to help students understand CS concepts visually and interactively. We're expanding beyond CS soon into other tricky subjects!
 - You can check out my personal portfolio [here](https://mahinsindhwani.netlify.app). I'm always polishing it up and adding new stuff.
 - Fun Fact: I can turn my thumbs a full 180 degrees... it’s just as weird as it sounds.
