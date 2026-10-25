@@ -30,7 +30,7 @@ const mahin = {
 - **B'y Your Side**: won **1st place at the IBM watsonx Hackathon 2026** with a context-aware health AI assistant that combines patient records and wearable data to personalize alerts.
 - **IntuitiveCS**: an interactive logic visualization platform built with friends (React + React Flow). Used in COMP 1002 at MUN, and we're expanding into other tricky subjects.
 - **Marketplace Negotiator**: scrapes Facebook Marketplace and uses the OpenAI API to write friendly, professional messages for students, especially helpful if English isn't your first language. Turning it into a Chrome extension next.
-- **[Portfolio](https://mahinsindhwani.netlify.app)**: I hate it but im making a new one.
+- **[Portfolio](https://msindhwani.dev)**: My personal portfolio. I am working on a new one so stay tuned.
 
 ### contact
 
