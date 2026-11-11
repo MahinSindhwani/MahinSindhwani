@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=61DAFB&vCenter=true&width=600&lines=Hey%2C+I'm+Mahin.;Full-stack+dev+%2B+CS+student+%40+MUN;Building+things%2C+breaking+things;Probably+listening+to+music+rn" alt="Typing intro" />
 
-<img src="koi/koi.gif" width="256" alt="My koi">
-
 Fourth-year Computer Science student at Memorial University of Newfoundland. I like figuring out how things work, and then trying to build them myself.
 
 I spent a year as a software developer intern at **Enaimco**, shipping full-stack features for a subsea digital twin platform (React, TypeScript, Express, MongoDB, Azure). I like knowing a little bit about everything, even if I've still got a long way to go.
@@ -37,4 +35,6 @@ const mahin = {
 ### contact
 
 [mahinsindhwani@gmail.com](mailto:mahinsindhwani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahinsindhwani/)
+
+<img src="koi/koi.gif" width="128" alt="My koi">
 
